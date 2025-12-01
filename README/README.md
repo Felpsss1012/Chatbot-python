@@ -6,3 +6,5 @@ comandos de memoria interna:
  * remove - remover unitariamente a memoria
  * edit - editar unitariamente a memoria
  * alert - alertar sobre os eventos, aniversario, tarefas ou lembretes nos proximos 14 dias (2 semanas)
+
+Lembre de baixar o modelo XTTS v2 no huggingface, e a voz do robozinho
