@@ -1,0 +1,41 @@
+[
+  "matar", "morte", "morto", "assassinar", "assassino", "assassinos", "atacar", "ataque", "agredir", "agressão", "espancar", "esfaquear", "esfaqueamento", "esfaqueou", "esmagar", "tortura", "torturar", "sequestrar", "sequestro", "explodir", "explosão", "bombar", "bomba", "massacre", "tiroteio", "tiro", "arma", "armas", "briga", "luta", "conflito", "guerra", "violência", "violento", "sangue", "sangrento", "ferir", "ferimento", "ferido", "feridos", "violência doméstica", "homicídio", "homicida",
+
+  "suicídio", "suicidar", "suicidou", "automutilação", "automutilar", "automutilado", "se cortar", "cortar", "autoagressão", "tentativa de suicídio", "tirar a própria vida",
+
+  "ódio", "racismo", "racista", "preconceito", "discriminação", "xenofobia", "homofobia", "transfobia", "islamofobia", "nazista", "fascista", "nazismo", "hitler", "intolerância", "discriminar", "ódio racial", "negro", "preto", "macaco", "viado", "bicha", "puta", "retardado", "idiota", "burro", "imbecil", "otário", "palhaço", "filho da puta", "bosta", "merda", "caralho", "porra", "foda", "fodido", "vai se foder", "chato", "chata", "gordo", "gorda", "analfabeto", "analfabeta", "deficiente", "bobo", "boba",
+
+  "bullying", "zoar", "zoação", "humilhar", "ameaçar", "chantagem", "assédio", "assediar", "assediado", "abusar", "abuso", "perseguir", "perseguição", "ameaça de morte",
+
+  "droga", "drogado", "maconha", "cocaína", "crack", "heroína", "metanfetamina", "álcool", "bebida alcoólica", "tráfico", "viciado", "viciar", "entorpecente", "crackeado", "cheirar cola", "cheirando cola",
+
+  "sexo", "pornô", "pornografia", "nudez", "nu", "exibicionismo", "fetiche", "sexo oral", "sexo anal", "vaginal", "genitália", "penetração", "adulto", "18+", "pedo", "pedofilia", "pornografia infantil", "incesto", "estuprar", "estupro", "violação", "sexting", "cachorro", "bunda", "cu", "pau", "pinto", "buceta", "xoxota", "gozar", "gozada", "safado", "safada", "putinha", "vagabunda", "vadia",
+
+  "terrorismo", "ataque terrorista", "explosivo", "hackear", "hacker", "vazar dados", "doxxing", "sextorsão", "sextortion", "lavagem de dinheiro", "corrupção", "fraude", "corrupção eleitoral", "suborno", "tráfico de pessoas", "tráfico humano",
+
+  "maldade", "vingança", "raiva", "ódio mortal", "ódio eterno", "ódio profundo",
+
+  "mata", "matou", "matei", "matarei", "mata-se", "suicida", "suicidou-se", "suicidando", "suicidário", "cortou", "cortando", "esfaqueando", "esfaqueia", "bombardeio", "bombardeado", "bombardeando",
+
+  "fuzil", "revólver", "pistola", "espingarda", "granada", "facão", "faca", "punhal", "bala", "munição",
+
+  "estuprador", "estupradores", "agressor", "agressores", "violência sexual",
+
+  "louco", "louca", "doido", "doida", "pirado", "pirada", "maluco", "maluca",
+
+  "enforcar", "enforcamento", "afogar", "afogamento", "toxicodependente", "mongoloide", "anormal", "inválido",
+
+  "anti-semita", "anti-semitismo", "judeu", "cristão", "muçulmano",
+
+  "matar alguém", "exterminar", "aniquilar", "eliminar", "destruir",
+
+  "xenófobo", "intolerante", "discriminador",
+
+  "vou matar", "vou te matar", "vou te fuder", "vou te estuprar", "vou te atacar",
+
+  "baseado", "maconheiro",
+
+  "p0rnô", "p*rno", "xxx", "xvideos", "redtube", "pornhub",
+
+  "cuzão", "cuzao", "babaca", "arrombado", "foder", "foda-se", "fodasse"
+]

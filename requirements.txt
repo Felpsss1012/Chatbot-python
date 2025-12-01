@@ -1,0 +1,15 @@
+TTS   #alterado para xtts v2
+playsound
+pygame
+aiohttp
+mysql-connector-python
+wikipedia
+sentence-transformers
+numpy
+rapidfuzz
+schedule
+feedparser
+num2words
+sumy
+punkt
+googletrans==4.0.0-rc1
